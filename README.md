@@ -47,7 +47,7 @@ O sistema será utilizado principalmente pelo dono da loja, podendo também ser 
 - **Como dono da loja:** Quero uma tela com todos os produtos cadastrados, incluindo nome, tamanho, preço, etc.
 
 ## Documentação
-A documentação completa da API está disponível [aqui](./index.html).
+A documentação completa da API está disponível [aqui](./dist/javadoc/index.html).
 
 ## Demonstração do Sistema
 
